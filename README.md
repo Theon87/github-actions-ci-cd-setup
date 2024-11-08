@@ -16,7 +16,7 @@ The power of github actions are seen when changes are made in feature branches a
 
 ![cypress test for pull request](/assets/github-actions-component-test-for-pr.png)
 
-![check before merge to main](/assets/github-actions-checking-before-merging.png)
+![check before merge to main](/assets/github-actions-checking-before-merging-to-main.png)
 
 ![deploy to render](/assets/github-actions-deploy-to-render-for-main-merge.png)
 
