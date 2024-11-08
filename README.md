@@ -12,11 +12,11 @@ After cloning the repository, use an npm install. When you have the required pac
 
 The power of github actions are seen when changes are made in feature branches and pushed to the develop and main branches. The screenshots below illustrate how the github actions help protect the branches. Merging to the develop and main branches will not occur if these tests fail. 
 
-![check before merge to develop](/assets/github-actions-checking-before-merging.png)
-
 ![cypress test for pull request](/assets/github-actions-component-test-for-pr.png)
 
 ![deploy to render](/assets/github-actions-deploy-to-render-for-main-merge.png)
+
+![check before merge to develop](/assets/github-actions-checking-before-merging.png)
 
 ## Credits
 
